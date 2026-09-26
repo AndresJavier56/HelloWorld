@@ -43,3 +43,25 @@ Hello, World!
 Console.WriteLine("Hello, World!");
 '''
 
+## Progress
+
+- [X] Create GitHub repository
+- [X] Create .NET solution
+- [X] Create console application
+- [X] Build the application
+- [X] Run the application
+- [ ] Add additional features
+
+## Resources
+
+- [GitHub](https://github.com)
+- [.NET](https://dotnet.microsoft.com)
+- [VS Code] (https://code.visualstudio.com)
+
+## Author 
+
+Created by [Andres Cabrera]
+
+## License
+
+This project is licensed under the MIT License.
